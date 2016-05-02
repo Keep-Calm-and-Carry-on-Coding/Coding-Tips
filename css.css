@@ -53,8 +53,11 @@ li {
  color: #454545;
 }
 
+a.navbarlink {
+ line-height: 1.5;
+ }
+
 a {
  margin-left: 100px;
  line-height: 1.5;
- color: #454545;
-}
+ }
